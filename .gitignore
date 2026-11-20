@@ -1,0 +1,14 @@
+# Visual Studio
+FirstApi/.vs/
+FirstApi/*.user
+FirstApi/*.suo
+
+# Build files
+FirstApi/bin/
+FirstApi/obj/
+
+# NuGet
+FirstApi/packages/
+
+# Logs
+FirstApi/*.log

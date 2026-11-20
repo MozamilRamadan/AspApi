@@ -1,0 +1,15 @@
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\bin\Debug\net10.0\APIBusinessLayer.deps.json
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\bin\Debug\net10.0\APIBusinessLayer.dll
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\bin\Debug\net10.0\APIBusinessLayer.pdb
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\bin\Debug\net10.0\DataAccessLayer.dll
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\bin\Debug\net10.0\DataAccessLayer.pdb
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.AssemblyInfo.cs
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusin.542E2772.Up2Date
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.dll
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\refint\APIBusinessLayer.dll
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\APIBusinessLayer.pdb
+C:\Users\Dre\source\repos\Test\APIBusinessLayer\obj\Debug\net10.0\ref\APIBusinessLayer.dll

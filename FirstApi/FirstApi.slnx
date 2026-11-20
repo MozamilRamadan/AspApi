@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../APIBusinessLayer/APIBusinessLayer.csproj" Id="ce6e450e-387e-4093-9435-f5b7cd7334af" />
+  <Project Path="../DataAccessLayer/DataAccessLayer.csproj" Id="ce72cc0d-1518-4b47-9b51-68f2fd5a487a" />
+  <Project Path="FirstApi.csproj" />
+</Solution>
